@@ -1,8 +1,6 @@
-# Mitisha Sharma – Portfolio
-
-Hi, this is my personal portfolio website.
+# Mitisha Sharma 
 
 Explore my projects, skills, and experience here:
 
-👉 https://mitisha-sharma.github.io/
+ 👉Portfolio: https://mitisha-sharma.github.io/mitisha-sharma/
 
